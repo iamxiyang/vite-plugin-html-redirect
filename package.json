@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-html-redirect",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "一个 Vite 小插件，解决使用 Vite 开发阶段路由带 .html 后缀时访问 404 的问题。",
   "main": "index.js",
   "keywords": [
@@ -8,5 +8,13 @@
     "vite-plugin"
   ],
   "author": "hexiyang",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/iamxiyang/vite-plugin-html-redirect#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamxiyang/vite-plugin-html-redirect.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iamxiyang/vite-plugin-html-redirect/issues"
+  }
 }
